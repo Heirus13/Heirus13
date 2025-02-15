@@ -29,6 +29,7 @@
   <img src="https://img.shields.io/static/v1?message=Tailwind%20CSS&logo=tailwindcss&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tailwind logo" />
 </div>
 
+<div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heirus13&show_icons=true&locale=en&layout=compact" alt="heirus13" /></p>
 
