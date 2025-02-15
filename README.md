@@ -1,7 +1,5 @@
 <h1 align="center">A Web Developer & Designer</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heirus13&label=Profile%20views&color=0e75b6&style=flat" alt="heirus13" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heirus13" alt="heirus13" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,7 +30,5 @@
 <div>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heirus13&show_icons=true&locale=en&layout=compact" alt="heirus13" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heirus13&show_icons=true&locale=en" alt="heirus13" /></p>
 
 <br clear="both">
