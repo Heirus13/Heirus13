@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Johnlloyd Justiniane</h1>
-<h3 align="center">A dedicated Web developer and Designer.</h3>
+<h1 align="center">Web Developer & Designer/h1>
 
 
 <p align="left">
