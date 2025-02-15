@@ -1,6 +1,5 @@
 <h1 align="center">A Web Developer & Designer</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heirus13" alt="heirus13" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
@@ -28,7 +27,11 @@
 </div>
 
 <div>
+  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heirus13&show_icons=true&locale=en&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="heirus13 languages graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heirus13&theme=dracula&no-frame=false&margin-w=10" height="150" alt="heirus13 trophy stats" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heirus13&show_icons=true&locale=en&layout=compact" alt="heirus13" /></p>
 
 <br clear="both">
