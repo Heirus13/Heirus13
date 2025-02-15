@@ -1,4 +1,4 @@
-<h1 align="center">A Web Developer & Designer 💻🎨</h1>
+<h1 align="center">A Web Developer & Designer 🧑‍💻</h1>
 
 
 <h3 align="left">Languages and Tools:</h3>
