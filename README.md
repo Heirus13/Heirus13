@@ -1,4 +1,4 @@
-<h1 align="center">Web Developer & Designer/h1>
+<h1 align="center">Web Developer & Designer</h1>
 
 
 <p align="left">
